@@ -1,1 +1,1 @@
-# mamarlade-daisy
+# marmalade-daisy project
